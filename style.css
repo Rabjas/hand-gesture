@@ -1,0 +1,50 @@
+body{
+  background-color: rgb(189, 189, 189);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+ font-size: 18px;
+ border-radius: 0px;
+ letter-spacing: 10px;
+ border-style:solid;
+ border-color: black;
+ border-width: 2px;
+}
+label{
+  font-size: 14px;
+  color:rgb(68, 0, 255);
+  padding: 6px;
+  border-radius: 10px;
+  background-color: rgb(238, 255, 4);
+}
+.btn-success:hover{
+  background-color: rgb(255, 230, 0);
+  color: black;
+  font-weight: bold;
+}
+.btn-primary:hover{
+  background-color:chartreuse;
+  color: black;
+  font-weight: bold;
+}
